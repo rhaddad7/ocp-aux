@@ -1,7 +1,9 @@
 The following is based on:
 
 https://www.openshift.com/blog/getting-started-helm-openshift
+
 https://docs.o-ran-sc.org/projects/o-ran-sc-it-dep/en/latest/installation-guides.html#prerequisites
+
 https://docs.openshift.com/container-platform/4.5/networking/using-sctp.html
 
 ## Prerequisites
